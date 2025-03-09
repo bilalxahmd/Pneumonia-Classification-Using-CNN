@@ -89,11 +89,6 @@ _________________________________________________________________
 ## 📈 Data Augmentation
 To improve generalization and reduce overfitting, **data augmentation** was applied using the `ImageDataGenerator` from Keras. The following augmentations were applied:
 
-✅ **Rotation:** Up to 30 degrees  
-✅ **Zoom:** Up to 20%  
-✅ **Width and Height Shift:** Up to 10%  
-✅ **Horizontal Flip**  
-
 ```python
 datagen = ImageDataGenerator(
         featurewise_center=False,  # set input mean to 0 over the dataset
