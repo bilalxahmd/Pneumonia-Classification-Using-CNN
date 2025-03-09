@@ -134,30 +134,31 @@ history = model.fit(
 ```
 ## 🎯 Results
 ### ✅ Test Accuracy:
-Achieved test accuracy of exactly **87.82%**.
+Achieved test accuracy of exactly **91.35%**.
 
 ### 📊 Confusion Matrix:
-![image](https://github.com/user-attachments/assets/812dc466-101c-4a3a-9827-86603892a653)
+![image](https://github.com/user-attachments/assets/2d4a99a6-76d3-47b9-8a48-bf71c44b9c49)
 
 ### 📉 Training and Validation Accuracy:
 Training and validation accuracy plots show consistent learning behavior without overfitting.
 
 ### 🏆 Performance Metrics
-**Train Accuracy: ** 97.48%
+**Train Accuracy: ** 97.65%
 **Validation Accuracy: ** 81.25%
-**Test Accuracy: ** 87.82%
-**FI-Score: ** Macro Avg = 0.86, Weighted Avg = 0.87
+**Test Accuracy: ** 91.35%
+**FI-Score: ** Macro Avg = 0.90, Weighted Avg = 0.91
 
 ### 📄 Classification Report:
 ```python
               precision    recall  f1-score   support
 
-           0       0.85      0.98      0.91       390
-           1       0.95      0.71      0.81       234
+           0       0.89      0.98      0.93       390
+           1       0.95      0.81      0.88       234
 
-    accuracy                           0.88       624
-   macro avg       0.90      0.84      0.86       624
-weighted avg       0.89      0.88      0.87       624
+    accuracy                           0.91       624
+   macro avg       0.92      0.89      0.90       624
+weighted avg       0.92      0.91      0.91       624
+
 ```
 
 ## 📌 To-Do
