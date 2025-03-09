@@ -146,7 +146,7 @@ Training and validation accuracy plots show consistent learning behavior without
 - **Train Accuracy:** 97.65%
 - **Validation Accuracy:** 81.25%
 - **Test Accuracy:** 91.35%
-- **FI-Score:** Macro Avg = 0.90, Weighted Avg = 0.91
+- **FI-Score:** Macro Avg = ~90%, Weighted Avg = ~91%
 
 ### 📄 Classification Report:
 ```python
