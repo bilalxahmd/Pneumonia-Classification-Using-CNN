@@ -143,10 +143,10 @@ Achieved test accuracy of exactly **91.35%**.
 Training and validation accuracy plots show consistent learning behavior without overfitting.
 
 ### 🏆 Performance Metrics
-**Train Accuracy:** 97.65% \n
-**Validation Accuracy:** 81.25% \n
-**Test Accuracy:** 91.35% \n
-**FI-Score:** Macro Avg = 0.90, Weighted Avg = 0.91
+- **Train Accuracy:** 97.65%
+- **Validation Accuracy:** 81.25%
+- **Test Accuracy:** 91.35%
+- **FI-Score:** Macro Avg = 0.90, Weighted Avg = 0.91
 
 ### 📄 Classification Report:
 ```python
